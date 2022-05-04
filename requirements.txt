@@ -53,3 +53,4 @@ pyowm==2.8.0
 pyTelegramBotAPI==3.6.1
 python-telegram-bot==7.0.1
 requests
+telebot
